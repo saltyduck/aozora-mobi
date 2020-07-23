@@ -33,7 +33,5 @@ make install
 aozora-mobi <青空文庫のテキストファイル>.zip
 ```
 
-## LICENCE
 
-Same As Perl.
 
